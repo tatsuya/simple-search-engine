@@ -1,0 +1,16 @@
+{
+  "name": "simplesearchengine",
+  "version": "0.0.1",
+  "description": "Minimalist search engine",
+  "dependencies": {
+    "connect": "2.x"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "make test"
+  }
+}
