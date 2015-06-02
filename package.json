@@ -6,10 +6,9 @@
     "connect": "2.x"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
   },
-  "main": "index",
   "scripts": {
     "test": "make test"
   }
