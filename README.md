@@ -1,6 +1,6 @@
-# search-engine
+# simple-search-engine
 
-Minimalist search engine written with Node.
+Minimalist search engine, tf-idf text retrieval with an inverted index, written with Node.
 
 ## Installation
 
